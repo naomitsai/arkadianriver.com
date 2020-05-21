@@ -11,10 +11,10 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _Naomi Tsai_
-description: _Adventures_
+title: Naomi Tsai
+description: Adventure & travel
 owner:
-  name: _Naomi Tsai_
+  name: Naomi Tsai
   url: "http://example.com" # your URL
 first_published: 2020 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
@@ -28,27 +28,24 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
-  text: _Your detailed greeting text_
+  title: Happy to see you!
+  text: Adventure is out there
 # - displayed at the bottom
-closing-head: _Your closing_
-closing-para: _Your detailed closing_
+closing-head: Get in Contact
+#closing-para: _Your detailed closing_
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
-  instagram: https://instagram.com/_naomi.tsai_
-  linkedin-square: https://linkedin.com/in/_username_
-  facebook-official: https://facebook.com/_thenaomitsai_
-  #google-plus-square: https://plus.google.com/u/0/+_username_
+  instagram: https://instagram.com/naomi.tsai
+  facebook-official: https://facebook.com/thenaomitsai
   email: /n.tsai4@gmail.com/ # you can configure and use this contact page or use your email addy
+  linkedin-square: https://linkedin.com/in/_username_
   #spotify:
   #vimeo:
-  #reddit:
-  #slack:
 
 
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Adventures
 
 # if you use this repo's `ruby compose.rb` script to initiate new posts, put the
 # command to invoke your editor here. (I didn't spend time dealing with spaces
