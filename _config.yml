@@ -29,9 +29,9 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Happy to see you!
-  text: Adventure is out there
+  #text: Adventure is out there
 # - displayed at the bottom
-closing-head: Get in Contact
+closing-head: let's work together
 #closing-para: _Your detailed closing_
 
 # on all pages (and the first three you list display with greeting, if included)
