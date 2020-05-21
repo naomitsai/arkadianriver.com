@@ -27,7 +27,8 @@ lang: en-us # used in HTML lang attributes
 
 # on landing page
 # - set the greeting only if you want to display the first green section
-greeting: Happy to see you!    
+greeting:
+  title: Happy to see you!    
 # - displayed at the bottom
 closing-head: let's work together
 #closing-para: _Your detailed closing_
