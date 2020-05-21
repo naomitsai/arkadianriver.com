@@ -12,7 +12,7 @@
 
 # Site settings
 title: Naomi Tsai
-description: Adventures & travel
+description: Welcome!
 owner:
   name: Naomi Tsai
   url: "http://example.com" # your URL
@@ -27,9 +27,7 @@ lang: en-us # used in HTML lang attributes
 
 # on landing page
 # - set the greeting only if you want to display the first green section
-greeting:
-  title: Happy to see you!
-  text:          
+greeting:title: Happy to see you!    
 # - displayed at the bottom
 closing-head: let's work together
 #closing-para: _Your detailed closing_
