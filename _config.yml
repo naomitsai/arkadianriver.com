@@ -15,10 +15,10 @@ title: Naomi Tsai
 description: Welcome!
 owner:
   name: Naomi Tsai
-  url: "http://example.com" # your URL
+  url: "https://naomitsai.github.io" # your URL
 first_published: 2020 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://example.com" # the base hostname & protocol for this site
+url: "https://naomitsai.github.io" # the base hostname & protocol for this site
 baseurl: "/arkadianriver.com" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
